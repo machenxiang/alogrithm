@@ -1,0 +1,5 @@
+/home/mcx/data_structure_algorithm/data_struct_al/list/build/CMakeFiles/rebuild_cache.dir
+/home/mcx/data_structure_algorithm/data_struct_al/list/build/CMakeFiles/main.dir
+/home/mcx/data_structure_algorithm/data_struct_al/list/build/CMakeFiles/array.dir
+/home/mcx/data_structure_algorithm/data_struct_al/list/build/CMakeFiles/edit_cache.dir
+/home/mcx/data_structure_algorithm/data_struct_al/list/build/CMakeFiles/list.dir

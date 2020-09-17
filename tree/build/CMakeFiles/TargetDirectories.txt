@@ -1,0 +1,5 @@
+/home/mcx/learning/data_struct_al/tree/build/CMakeFiles/rebuild_cache.dir
+/home/mcx/learning/data_struct_al/tree/build/CMakeFiles/main.dir
+/home/mcx/learning/data_struct_al/tree/build/CMakeFiles/edit_cache.dir
+/home/mcx/learning/data_struct_al/tree/build/CMakeFiles/dynamic_tree.dir
+/home/mcx/learning/data_struct_al/tree/build/CMakeFiles/test.dir

@@ -1,0 +1,5 @@
+/home/mcx/data_structure_algorithm/data_struct_al/recursive/build/CMakeFiles/rebuild_cache.dir
+/home/mcx/data_structure_algorithm/data_struct_al/recursive/build/CMakeFiles/main.dir
+/home/mcx/data_structure_algorithm/data_struct_al/recursive/build/CMakeFiles/hannuota.dir
+/home/mcx/data_structure_algorithm/data_struct_al/recursive/build/CMakeFiles/edit_cache.dir
+/home/mcx/data_structure_algorithm/data_struct_al/recursive/build/CMakeFiles/factorial.dir

@@ -1,0 +1,4 @@
+/home/mcx/learning/data_struct_al/sort/build/CMakeFiles/edit_cache.dir
+/home/mcx/learning/data_struct_al/sort/build/CMakeFiles/test.dir
+/home/mcx/learning/data_struct_al/sort/build/CMakeFiles/rebuild_cache.dir
+/home/mcx/learning/data_struct_al/sort/build/CMakeFiles/sort.dir
